@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Here is the list of its features :\r • Neomorphism Design\r • Fully Responsive Layout\r • 5 Color Skins \r • Light/Dark\r • Fade In/Out Effect\r • Live Style Switcher\r • Clean Code\r • W3C Validated\r • HTML5 & CSS3 & JAVASCRIPT\r • 100% Customizable, all colors can be customized\r • Project Image Format\r • Font Awesome Icons\r • Google Fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
